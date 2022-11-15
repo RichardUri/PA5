@@ -1,0 +1,22 @@
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe.config
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.pdb
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csprojAssemblyReference.cache
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.MainForm.resources
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Properties.Resources.resources
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.GenerateResource.cache
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.CoreCompileInputs.cache
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.exe
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.pdb
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe.config
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.pdb
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.AssemblyReference.cache
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.MainForm.resources
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Properties.Resources.resources
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.GenerateResource.cache
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.CoreCompileInputs.cache
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.exe
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.pdb
+C:\Users\ruria\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Form2.resources
